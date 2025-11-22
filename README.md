@@ -54,4 +54,4 @@ This system helps farmers, gardeners, and agriculture professionals diagnose cro
 ```bash
 git clone <repo-link>
 cd plant-disease-prediction
-
+live link : https://vityarthi-computervision.onrender.com/
