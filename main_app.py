@@ -33,7 +33,7 @@ TRANSLATIONS = {
         "start": "👉 *Start by clicking on the Disease Recognition tab!*",
         "about_title": "📜 About This Project",
         "developed_by": "Developed by:",
-        "team": "- **Saral Singhal**\n- **Aditi Shindadkar**\n- **Om Raj**\n- **Tarpita Karnam**\n- **Pranjal Karan**",
+        "OWNER": "Om Raj",
         "recognition_title": "🔬 Disease Recognition",
         "upload_text": "📸 Upload a Plant Leaf Image:",
         "predict_button": "🔍 Predict Disease",
